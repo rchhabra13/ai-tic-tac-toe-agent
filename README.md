@@ -113,3 +113,5 @@ The game supports various AI models:
    - Move timing
    - Strategy tracking
    - Game statistics
+
+<!-- Updated: 2025-09-16 -->
